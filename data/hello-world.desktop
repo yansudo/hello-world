@@ -1,10 +1,10 @@
 [Desktop Entry]
 Name=Hello World
 GenericName=Hello World App
-Comment=Proves that we can use Vala and GTK
+Comment=Proves that we can use Vala and GTK.
 Categories=Utility;Education;
 Exec=com.github.yansudo.hello-World
-Icon=com.github.yansudo.hello-World
+Icon=com.github.yansudo.hello-World 
 Terminal=false
 Type=Application
 Keywords=Hello;World;Example;

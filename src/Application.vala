@@ -5,7 +5,7 @@ public class MyApp: Gtk.Application {
             flags:ApplicationFlags.FLAGS_NONE
         );
     }
-    
+     
     public override void activate(){
         var main_window = new Gtk.ApplicationWindow(this){
             default_height = 300,
